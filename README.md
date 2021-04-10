@@ -3,19 +3,12 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Projeto Front End totalmente desenvolvido em React Native. O projeto consiste em uma tela de Login, Cadastro e uma tela que é ativada quando o usuário insere corretamente as credenciais de login e senha. Abaixo temos algumas capturas de tela. Para fins de teste, as credenciais padrões são: 
+**Usuário:** user
+**Senha:** password@123
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Capturas de Tela
+![Mobile 1](https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-37-23-206_com.reactnative.jpg) ![Mobile 2](https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-35-49-178_com.reactnative.jpg) ![Mobile 3](https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-35-55-786_com.reactnative.jpg) ![Mobile 4](https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-36-10-545_com.reactnative.jpg) ![Mobile 5](https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-13-05-48-271_com.reactnative.jpg)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
