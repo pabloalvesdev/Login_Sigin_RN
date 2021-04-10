@@ -47,4 +47,4 @@ npm start
 
 Pablo Alves
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/pablo-alves-a40056203/
