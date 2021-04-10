@@ -9,11 +9,13 @@ Projeto Front End totalmente desenvolvido em React Native. O projeto consiste em
 
 ## Capturas de Tela
 
-<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-37-23-206_com.reactnative.jpg" width="100" height="200" />
-<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-35-49-178_com.reactnative.jpg" width="100" height="200" />
-<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-35-55-786_com.reactnative.jpg" width="100" height="200" />
-<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-36-10-545_com.reactnative.jpg" width="100" height="200" />
-<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-13-05-48-271_com.reactnative.jpg" width="100" height="200" />
+<div style="display: inline-block" >
+<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-37-23-206_com.reactnative.jpg" width="150" height="300" />
+<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-35-49-178_com.reactnative.jpg" width="150" height="300" />
+<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-35-55-786_com.reactnative.jpg" width="150" height="300" />
+<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-12-36-10-545_com.reactnative.jpg" width="150" height="300" />
+<img src="https://github.com/pabloalvesdev/Login_Sigin_RN/blob/main/assets/Screenshot_2021-04-10-13-05-48-271_com.reactnative.jpg" width="150" height="300" />
+</div>
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
