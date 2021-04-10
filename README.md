@@ -17,8 +17,9 @@ Projeto Front End totalmente desenvolvido em React Native. O projeto consiste em
 </div>
 
 # Tecnologias utilizadas
-## Front end
 - React Native
+- React Navigation V4
+- NodeJS
 
 # Como executar o projeto
 
